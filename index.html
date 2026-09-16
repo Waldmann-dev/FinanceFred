@@ -64,9 +64,26 @@ function perfClass(v){
   const neg = v.includes('−') || (v.trim().startsWith('-') && /\d/.test(v));
   return neg ? 'neg' : 'pos';
 }
+function lerp(a,b,t){ return a.map(function(x,i){ return Math.round(x+(b[i]-x)*t); }); }
+var C_RED=[255,107,107], C_GREEN=[61,220,132], C_NEU=[232,237,245];
+function dist52Color(v){
+  var t = Math.max(0, Math.min(1, v/100));
+  var c = t<0.5 ? lerp(C_RED,C_NEU,t*2) : lerp(C_NEU,C_GREEN,(t-0.5)*2);
+  return 'rgb('+c.join(',')+')';
+}
+function dist200Color(v){
+  var t = Math.max(-1, Math.min(1, v/20));
+  var c = t<0 ? lerp(C_NEU,C_RED,-t) : lerp(C_NEU,C_GREEN,t);
+  return 'rgb('+c.join(',')+')';
+}
 function cell(c, v){
   if(v === 'n/a') return '<span class="na">n/a</span>';
   if(c === '± seit Empfehlung') return '<span class="'+perfClass(v)+'">'+esc(v)+'</span>';
+  if(c === 'Abstand 52W-Tief' || c === 'Abstand 200T-Linie'){
+    var num = parseFloat(String(v).replace(/−/g,'-').replace('%','').replace(',','.').trim());
+    var col = c === 'Abstand 52W-Tief' ? dist52Color(num) : dist200Color(num);
+    return '<span style="color:'+col+';font-weight:600">'+esc(v)+'</span>';
+  }
   if(c === 'Kurznotiz') return '<span class="note">'+esc(v)+'</span>';
   if(c === 'Quelle') return '<span class="badge">'+esc(v)+'</span>';
   return esc(v);
