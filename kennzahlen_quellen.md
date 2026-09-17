@@ -588,8 +588,9 @@ Aktien fürs Leben (13/13 verifiziert; Folgenseiten des offiziellen Podcasts, Ti
 - Novo Nordisk → https://aktien-fuers-leben.blogs.audiorella.com/142-new-episode (13.05.2026)
 - Hinweis: Die neuere Amazon-Folge vom 25.02.2026 (132) nennt Amazon nur im Titel als Vergleich, nicht in der offiziellen Aktienliste – daher die Folge vom 11.02.2026 als neueste offizielle Behandlung verwendet.
 
-LYNX Broker (3 verifizierte Folgenseiten, 7 n/a):
+LYNX Broker (4 verifizierte Folgenseiten, 7 n/a):
 - SFC Energy → https://www.lynxbroker.de/boerse/podcast/smart-investieren/sfc-energy-aktienanalyst-bewertet-erneuerbare-energie/ (19.08.2026)
+- Vossloh → https://www.lynxbroker.de/boerse/podcast/smart-investieren/vossloh-deutscher-weltmarktfuehrer-im-bereich-schiene/ (23.06.2026)
 - AppLovin → https://www.lynxbroker.de/boerse/podcast/aktien-mit-potenzial/applovin-das-neue-meta/ (22.04.2026)
 - Ion Beam Applications → https://www.lynxbroker.de/boerse/podcast/aktien-mit-potenzial/ion-beam-prazisionstechnologie-im-kampf-gegen-krebs/ (09.07.2026)
 - n/a (keine konkrete LYNX-Folge zu dieser Aktie gefunden): IntegraFin Holdings, Cicor Technologies, United Internet, Frequentis, SK Hynix, HBX Group, Federal Signal
