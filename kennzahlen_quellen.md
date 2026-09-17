@@ -603,4 +603,4 @@ Kombinierte Quellen:
 
 **Coverage:** 20 reine Zeilen + 4 kombinierte Zeilen = 24 geändert. 96/260 Zeilen haben nun Linkfelder (72 Abilitato + 24 neue). Nicht verifizierbare Badges bleiben unverlinkt: 5 Gamperling- + 7 LYNX-Zeilen.
 
-**Deploy:** dev/FinanceFred folgt; SHA nach Eintragung dokumentieren.
+**Deploy:** dev/FinanceFred, 17.09.2026 – index.html blob-SHA `02d6539b`, kennzahlen_quellen.md blob-SHA `81b1ff23`. Live geprüft: 260 Zeilen, 96 Zeilen mit Linkfeldern, 99 verlinkte Badges, 18 Stichproben aller Quellen OK.
