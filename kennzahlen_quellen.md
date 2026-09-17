@@ -561,3 +561,46 @@ Neue Nutzerregel: Jedes „Quelle"-Badge zeigt weiter nur den Quellennamen, ist 
 **Caveats:** Geberit (giant-table-Vermerk „keine belegbare Quelle" vs. finance_voices_complete.md 17.01.2025) → dokumentierte URL verwendet. Exakte Artikel-Headlines bei Slug-rekonstruierten Titeln nicht überall unabhängig verifiziert; URLs stammen aus verifizierten Workspace-Recherchen, keine erfunden.
 
 **Deploy:** index.html SHA `0c06b612` (dev/FinanceFred). kennzahlen_quellen.md SHA folgt.
+
+## 17.09.2026 – Quellen-Badge-URLs (Gamperling, Aktien fürs Leben, LYNX, kombinierte Quellen) komplett
+
+Disis Freigabe („Ja“ am 17.09.2026) umfasste auch Gamperling, Aktien fürs Leben, LYNX und kombinierte Quellen. Feldregel: reine Quellen → `_quelle_url`; kombinierte Quellen → `_quelle_links` (Liste `{label, url|null}`), damit die Badges getrennt anklickbar bleiben. Renderer: Zeilen mit `_quelle_links` rendern pro Quelle ein eigenes kleines Badge; verifizierte URLs sind anklickbar, Quellen ohne verifizierbaren Direktlink (LVMH/Gamperling) rendern als Badge ohne Link. Außer den Linkfeldern und dem Link-Rendering wurde nichts verändert (keine Kurse, Kennzahlen, Texte). index.html SHA vor/nach: Backup unter `/tmp/index_before_quellenlinks2.html`; nach Änderung 260 Datenzeilen unverändert, `node --check` OK.
+
+**Verwendete URLs (jede einzeln geöffnet und auf Aktienbezug/Datum geprüft):**
+
+Gamperling (10 verifiziert, 5 n/a):
+- Adobe, Salesforce, Intuit, Autodesk, Wolters Kluwer → https://www.youtube.com/watch?v=utOsO1o-fhI („Software-Aktien 2026: Diese 5 sind jetzt wirklich günstig“, 08.09.2026, Gamperling-Kanal)
+- Stryker → https://www.youtube.com/watch?v=osCoR47-NzU (03.07.2026)
+- Netflix → https://www.youtube.com/watch?v=UtB2eWi_qMU (28.08.2026)
+- Eli Lilly, Novo Nordisk → https://www.youtube.com/watch?v=PX11Z4_V8V4 („Novo Nordisk vs. Eli Lilly Aktien-Duell 2026“, 2026)
+- n/a (kein Gamperling-Video gefunden): ASML, Prysmian, Ciena, General Mills, LVMH (Luxus-Podcastfolge 10.04.2026 existiert, aber kein YouTube-Video)
+
+Aktien fürs Leben (13/13 verifiziert; Folgenseiten des offiziellen Podcasts, Titel/Datum/Aktienliste je Seite geprüft):
+- Apple → https://aktien-fuers-leben.blogs.audiorella.com/155-new-episode (16.09.2026)
+- Netflix → https://aktien-fuers-leben.blogs.audiorella.com/154-new-episode (09.09.2026)
+- Hermès, LVMH → https://aktien-fuers-leben.blogs.audiorella.com/151-new-episode (15.07.2026)
+- Adidas, Nike → https://aktien-fuers-leben.blogs.audiorella.com/131-new-episode (18.02.2026)
+- Microsoft, Amazon → https://aktien-fuers-leben.blogs.audiorella.com/130-new-episode (11.02.2026)
+- Nvidia → https://aktien-fuers-leben.blogs.audiorella.com/153-new-episode (02.09.2026)
+- Coca-Cola → https://aktien-fuers-leben.blogs.audiorella.com/8-eine-ki-aktie-an-der-der-hype-weitgehend-vorbeigegangen-ist-noch (29.10.2025)
+- Tesla → https://aktien-fuers-leben.blogs.audiorella.com/20-was-big-beautiful-bill-fuer-die-weltwirtschaft-bedeutet-und-ist-coreweave-das-neue-wework (09.07.2025)
+- SAP → https://aktien-fuers-leben.blogs.audiorella.com/140-new-episode (29.04.2026)
+- Novo Nordisk → https://aktien-fuers-leben.blogs.audiorella.com/142-new-episode (13.05.2026)
+- Hinweis: Die neuere Amazon-Folge vom 25.02.2026 (132) nennt Amazon nur im Titel als Vergleich, nicht in der offiziellen Aktienliste – daher die Folge vom 11.02.2026 als neueste offizielle Behandlung verwendet.
+
+LYNX Broker (3 verifizierte Folgenseiten, 7 n/a):
+- SFC Energy → https://www.lynxbroker.de/boerse/podcast/smart-investieren/sfc-energy-aktienanalyst-bewertet-erneuerbare-energie/ (19.08.2026)
+- AppLovin → https://www.lynxbroker.de/boerse/podcast/aktien-mit-potenzial/applovin-das-neue-meta/ (22.04.2026)
+- Ion Beam Applications → https://www.lynxbroker.de/boerse/podcast/aktien-mit-potenzial/ion-beam-prazisionstechnologie-im-kampf-gegen-krebs/ (09.07.2026)
+- n/a (keine konkrete LYNX-Folge zu dieser Aktie gefunden): IntegraFin Holdings, Cicor Technologies, United Internet, Frequentis, SK Hynix, HBX Group, Federal Signal
+- Hinweis: Die Folgenseiten enthalten einen „Auf YouTube abspielen“-Button; die konkrete YouTube-Video-URL war im ausgelesenen Seitentext nicht sichtbar. Da die Nutzerregel eine konkrete Podcastfolge zulässt, verlinken die Badges auf die offiziellen LYNX-Folgenseiten.
+
+Kombinierte Quellen:
+- McDonald's (Abilitato + Gamperling) → Abilitato: https://abilitato.de/fast-food-aktien-im-vergleich-wo-einsteigen/ (Juni 2024, neuester verifizierter Abilitato-Beitrag mit McDonald's-Sektion; Einzelanalyse älter) + Gamperling: https://www.youtube.com/watch?v=80CZkUc7kuY (11.09.2026)
+- Netflix (Gamperling + Aktien fürs Leben) → s. o.
+- LVMH (Gamperling + Aktien fürs Leben) → Gamperling n/a (Badge ohne Link), AfL s. o.
+- Novo Nordisk (Gamperling + Aktien fürs Leben) → s. o.
+
+**Coverage:** 20 reine Zeilen + 4 kombinierte Zeilen = 24 geändert. 96/260 Zeilen haben nun Linkfelder (72 Abilitato + 24 neue). Nicht verifizierbare Badges bleiben unverlinkt: 5 Gamperling- + 7 LYNX-Zeilen.
+
+**Deploy:** dev/FinanceFred folgt; SHA nach Eintragung dokumentieren.
