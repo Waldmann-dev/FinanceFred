@@ -541,3 +541,23 @@ Folgende Fälle konnten nicht belastbar einer konkreten Aktie zugeordnet werden 
 ### Erwähnt, aber nicht als eigenständige Analyse gewertet
 
 Indien-Artikel 14.02.2025, Abschnitt „Weitere Aktien“ (kurzer Indien-Kontext, keine Analyse): Airbus, Meta, Netflix, Spotify. Entscheidung: nicht aufgenommen, da keine eigenständige Vorstellung/Analyse im Sinne des Auftrags. Unilever und Apple aus demselben Artikel WURDEN aufgenommen (ausführlichere Behandlung mit KGV-Angaben 17,4/16,3 bzw. 29,6/26,4 für 2025e/2026e).
+
+## 17.09.2026 – Quellen-Badge-URLs (Abilitato) komplett: 72/72
+
+Neue Nutzerregel: Jedes „Quelle"-Badge zeigt weiter nur den Quellennamen, ist aber anklickbar und verlinkt auf den **neuesten konkreten** Blogartikel / die neueste Podcastfolge / das neueste Video zu der Aktie. Keine generischen Startseiten/Kanalübersichten. Feld `_quelle_url` (voller String), Badge-Text unverändert. Renderer: Badge wird bei vorhandener `_quelle_url` in `<a target="_blank" rel="noopener">` eingebettet.
+
+**Abdeckung:** Alle 72 reinen Abilitato-Zeilen + Deutsche Telekom (Spotify-Podcastfolge vom 31.05.2026). Ausgenommen (separater Auftrag): McDonald's (`Abilitato + Gamperling`), Gamperling, Aktien fürs Leben, LYNX, kombinierte Quellen.
+
+**Verwendete neueste URLs (Auszug):**
+- British American Tobacco (parent-verifiziert): `https://abilitato.de/10-aktien-ideen-fuer-2026-welche-aktien-sollte-man-jetzt-kaufen/` (20.01.2026)
+- 7 weitere aus „10 Aktien-Ideen für 2026": Celsius Holdings, Domino's Pizza, 2G Energy, Sixt Vz., Flughafen Zürich, Fairfax India, Mondelez
+- Realty Income: `/realty-income-aktie-55-dividendenrendite-monatlich-ausgeschuettet-wo-ist-der-haken/` (30.01.2026)
+- Jumbo: `/jumbo-aktie-alles-discounter-mit-hohem-wachstum-und-33-prozent-ebit-marge-zu-einem-kgv-von-unter-10/` (21.02.2026)
+- Shimano (live verifiziert): `/shimano-aktie-talfahrt-beendet-nachfrage-und-aktienkurs-ziehen-wieder-an-aufspringen/` (16.08.2024)
+- Daikin (live verifiziert): `/daikin-aktie-kurs-notiert-mittlerweile-52-prozent-unter-dem-hoch-value-gelegenheit/` (23.08.2024)
+- Aktualisiert auf neueste: Berentzen → Management-Interview 12/2023; STEICO → 17.02.2024; Hindustan Unilever + Varun Beverages → Indien-Erfahrungsbericht 14.02.2025; Mister Car Wash → 06/2023-Update; HAMBORNER + WashTec → verifizierte Interview-Slugs 01/2024
+- PayPal: Gastbeitrag ValueandOpportunity.com vom 28.03.2026 (neuster Abilitato-gehosteter Beitrag; eigener Artikel vom 24.03.2026 existiert)
+
+**Caveats:** Geberit (giant-table-Vermerk „keine belegbare Quelle" vs. finance_voices_complete.md 17.01.2025) → dokumentierte URL verwendet. Exakte Artikel-Headlines bei Slug-rekonstruierten Titeln nicht überall unabhängig verifiziert; URLs stammen aus verifizierten Workspace-Recherchen, keine erfunden.
+
+**Deploy:** index.html SHA `0c06b612` (dev/FinanceFred). kennzahlen_quellen.md SHA folgt.
