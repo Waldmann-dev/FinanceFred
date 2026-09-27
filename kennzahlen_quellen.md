@@ -605,3 +605,13 @@ Kombinierte Quellen:
 **Coverage:** 20 reine Zeilen + 4 kombinierte Zeilen = 24 geändert. 96/260 Zeilen haben nun Linkfelder (72 Abilitato + 24 neue). Nicht verifizierbare Badges bleiben unverlinkt: 5 Gamperling- + 7 LYNX-Zeilen.
 
 **Deploy:** dev/FinanceFred, 17.09.2026 – index.html blob-SHA `02d6539b`, kennzahlen_quellen.md blob-SHA `81b1ff23`. Live geprüft: 260 Zeilen, 96 Zeilen mit Linkfeldern, 99 verlinkte Badges, 18 Stichproben aller Quellen OK.
+
+## 27.09.2026 – weekly-video-picks: Aktien fürs Leben, Folge vom 23.09.2026
+
+Neue Podcastfolge „Was wirklich hilft gegen steigende Spritpreise: Vielleicht eine dieser drei Aktien" (Aktien fürs Leben, 23.09.2026, https://aktien-fuers-leben.blogs.audiorella.com/156-new-episode). Besprochene Aktien: Wolters Kluwer (A0J2R1), OMV (874341), Coloplast (A1KAGC). Wolters Kluwer bereits auf Watchlist + Website (Gamperling-Zeile + Depotliste) – kein Doppel.
+
+Neuaufnahmen in Depotliste (Quelle „Watchlist", Standing-Freigabe 17.09.2026), übrige Felder n/a:
+- OMV: Kurs heute 72,50 (Eröffnung 25.09.2026, Yahoo Finance OMV.VI, Wien, EUR)
+- Coloplast: Kurs heute ~56,52 (Eröffnung 25.09.2026, Yahoo Finance COLO-B.CO: 422,80 DKK, umgerechnet mit EURDKK 7,48 vom 25.09.2026)
+
+Quellen-Badge verlinkt auf die Episodenseite (Feld `_quelle_url`). Keine Kaufempfehlung der Folge dokumentiert.
