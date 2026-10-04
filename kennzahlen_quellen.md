@@ -615,3 +615,16 @@ Neuaufnahmen in Depotliste (Quelle „Watchlist", Standing-Freigabe 17.09.2026),
 - Coloplast: Kurs heute ~56,52 (Eröffnung 25.09.2026, Yahoo Finance COLO-B.CO: 422,80 DKK, umgerechnet mit EURDKK 7,48 vom 25.09.2026)
 
 Quellen-Badge verlinkt auf die Episodenseite (Feld `_quelle_url`). Keine Kaufempfehlung der Folge dokumentiert.
+
+## 04.10.2026 – weekly-video-picks (drei neue Inhalte)
+
+1. Abilitato-Blog: „McDonald's Aktie: Kurs ist um 31 Prozent abgestürzt – Kaufgelegenheit oder eingetrübte Aussichten?" (01.10.2026, https://abilitato.de/mcdonalds-aktie-kurs-ist-um-31-prozent-abgestuerzt-kaufgelegenheit-oder-eingetruebte-aussichten/). McDonald's bereits auf Watchlist + Website (Abilitato-Sektion + Depotliste, Quelle „Watchlist") – kein Doppel.
+2. LYNX „Smart Investieren": „MBB: Eine deutsche Erfolgsgeschichte mit Potenzial" (30.09.2026, https://www.lynxbroker.de/boerse/podcast/smart-investieren/mbb-eine-deutsche-erfolgsgeschichte-mit-potenzial/, Gespräch mit Torben Teichler, Finanzvorstand der MBB, ISIN DE000A0ETBQ4) – MBB neu.
+3. „Aktien fürs Leben": „Gleich zwölf auf einen Schlag!" (30.09.2026, https://aktien-fuers-leben.blogs.audiorella.com/157-new-episode; Bilanz über zwölf früher besprochene Aktien: Berkshire Hathaway, LVMH, Coca-Cola, Apple, Munich Re, Nike, SAP, Novo Nordisk, Amazon, Adidas, Netflix, Hermès). Alle zwölf bereits getrackt: zehn auf Watchlist + Website; Berkshire Hathaway B bereits als Depotposition auf der Website – kein Doppel.
+
+Neuaufnahme in Depotliste (Quelle „Watchlist", übrige Felder n/a):
+- MBB: Kurs heute 172,60 (Schluss 02.10.2026, Xetra; onvista.de, MBB.DE, verzögert; ISIN DE000A0ETBQ4). Tageshoch/-tief 02.10.: 175,40/171,40 EUR.
+
+Quellen-Badge der MBB-Zeile verlinkt auf die LYNX-Folgenseite (Feld `_quelle_url`). Keine Kaufempfehlung der Folge dokumentiert.
+
+„Aktien mit Potenzial" unverändert (neueste Folge weiter Ion Beam Applications, 09.07.2026 – bereits verarbeitet).
