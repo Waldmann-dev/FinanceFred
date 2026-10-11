@@ -628,3 +628,18 @@ Neuaufnahme in Depotliste (Quelle „Watchlist", übrige Felder n/a):
 Quellen-Badge der MBB-Zeile verlinkt auf die LYNX-Folgenseite (Feld `_quelle_url`). Keine Kaufempfehlung der Folge dokumentiert.
 
 „Aktien mit Potenzial" unverändert (neueste Folge weiter Ion Beam Applications, 09.07.2026 – bereits verarbeitet).
+
+## 11.10.2026 – weekly-video-picks (zwei neue Inhalte)
+
+1. LYNX „Aktien mit Potenzial": „Nynomic: Ein heimlicher Profiteur des KI Booms?" (02.10.2026, https://www.lynxbroker.de/boerse/podcast/aktien-mit-potenzial/nynomic-ein-heimlicher-profiteur-des-ki-booms/, Gespräch mit Carl Otto Schill, Fondsmanager; ISIN DE000A0MSN11, Ticker M7U; Erwartung der Analyse: Bullisch, Gültigkeit 1 Jahr) – Nynomic neu.
+2. „Aktien fürs Leben": „Solidität in unsicheren Zeiten" (07.10.2026, https://aktien-fuers-leben.blogs.audiorella.com/ – neueste Episode auf der Episodenseite; besprochene Aktien: BASF (BASF11), Evonik (EVNK01), Kerry Group (886291), Vinci (867475)). BASF + Vinci bereits auf Watchlist + Website (Depotliste, Quelle „Watchlist") – kein Doppel. Evonik + Kerry Group neu.
+3. Abilitato-Blog: unverändert, neuester Artikel weiter McDonald's (01.10.2026) – bereits verarbeitet. LYNX „Smart Investieren": keine neue Folge seit MBB (30.09.2026) – die auf der Smart-Investieren-Seite als „Aktuelle Folge" gezeigte Nynomic-Folge gehört zu „Aktien mit Potenzial".
+
+Neuaufnahmen in Depotliste (Quelle „Watchlist", Standing-Freigabe 17.09.2026), Fundamentals n/a, 200T-Linie n/a (nicht verifizierbar):
+- Nynomic: Kurs heute 26,00 (Schluss 09.10.2026, Xetra; Finnhub M7U.DE: Eröffnung 25,50, Hoch 26,50, Tief 25,30; ISIN DE000A0MSN11). Abstand 52W-Tief +216,28 % (52W-Tief 8,22 EUR, Finnhub).
+- Evonik: Kurs heute 21,36 (Schluss 09.10.2026, Xetra; Finnhub EVK.DE: Eröffnung 21,18; bestätigt finanznachrichten.de 21,360 EUR Xetra 09.10. 17:35; ISIN DE000EVNK013). Abstand 52W-Tief +71,02 % (52W-Tief 12,49 EUR, Finnhub).
+- Kerry Group: Kurs heute 87,25 (Schluss 09.10.2026, Euronext Dublin; Finnhub KRZ.IR: Eröffnung 86,65; ISIN IE0004906560). Abstand 52W-Tief +35,69 % (52W-Tief 64,30 EUR, Finnhub).
+
+Quellen-Badges der drei neuen Zeilen verlinkt (Feld `_quelle_url`): Nynomic auf die LYNX-Folgenseite, Evonik + Kerry Group auf die audiorella-Episodenseite. Keine Kaufempfehlung der Folgen dokumentiert.
+
+„Aktien mit Potenzial" ältere Folgen unverändert (Federal Signal 18.03.2026, Ion Beam 09.07.2026 – bereits verarbeitet bzw. zu alt).
