@@ -587,6 +587,7 @@ Aktien fürs Leben (13/13 verifiziert; Folgenseiten des offiziellen Podcasts, Ti
 - SAP → https://aktien-fuers-leben.blogs.audiorella.com/140-new-episode (29.04.2026)
 - Novo Nordisk → https://aktien-fuers-leben.blogs.audiorella.com/142-new-episode (13.05.2026)
 - Hinweis: Die neuere Amazon-Folge vom 25.02.2026 (132) nennt Amazon nur im Titel als Vergleich, nicht in der offiziellen Aktienliste – daher die Folge vom 11.02.2026 als neueste offizielle Behandlung verwendet.
+- McCormick, Celestica → https://aktien-fuers-leben.blogs.audiorella.com/160-new-episode (21.10.2026, „Wie stabil ist das Auftragsbuch von Rheinmetall?"); Rheinmetall, SK Hynix, BASF, Evonik aus derselben Folge bereits auf Watchlist
 
 LYNX Broker (4 verifizierte Folgenseiten, 7 n/a):
 - SFC Energy → https://www.lynxbroker.de/boerse/podcast/smart-investieren/sfc-energy-aktienanalyst-bewertet-erneuerbare-energie/ (19.08.2026)
