@@ -658,3 +658,17 @@ Neuaufnahmen in Depotliste (Quelle „Watchlist", Standing-Freigabe 17.09.2026),
 - Grand City Properties: Kurs heute 6,83 (Schluss 16.10.2026, Xetra; Finnhub GYC.DE: Eröffnung 6,90, Hoch 6,98, Tief 6,80; ISIN LU0775917882, WKN A1JXCV). Abstand 52W-Tief +6,89 % (52W-Tief 6,39 EUR, Finnhub).
 
 Quellen-Badges der drei neuen Zeilen verlinkt (Feld `_quelle_url`): auf die audiorella-Episodenseite /159-new-episode. Keine Kaufempfehlung der Folge dokumentiert.
+
+## 09.11.2026 – weekly-video-picks (zwei neue Inhalte)
+
+1. „Aktien fürs Leben", Folge 162: „Jetzt aber wirklich? Börsenbeben im Tech-Sektor – und eine Golf-Aktie zur Entspannung" (04.11.2026, https://aktien-fuers-leben.blogs.audiorella.com/162-new-episode; besprochene Aktien: Alphabet (A14Y6F), Microsoft (870747), TK Accelis (TKCC1S), ABB (919730), Acushnet (A2ATTR)). Alphabet + Microsoft bereits auf Watchlist + Website – kein Doppel. TK Accelis, ABB, Acushnet neu.
+2. Abilitato-Blog: neuer Artikel „CEWE Aktie: Nr. 1 bei Fotobüchern schaltet in den Wachstumsmodus – so viel Potenzial ist vorhanden" (03.11.2026, https://abilitato.de/cewe-aktie-nr-1-bei-fotobuechern-schaltet-in-den-wachstumsmodus-so-viel-potenzial-ist-vorhanden/; ISIN DE0005403901, KGV 2026e/2027e 12,9/10,8, Kodak-Moments-Übernahme, Kurs 116,00 EUR am 29.10.2026 laut Artikel). CEWE bereits auf Watchlist + Website – kein Doppel.
+3. LYNX „Smart Investieren": keine neue Folge seit Sarnia Global Alpha Fund (29.10.2026) – bereits verarbeitet.
+4. LYNX „Aktien mit Potenzial": keine neue Folge seit Nynomic (02.10.2026).
+
+Neuaufnahmen in Depotliste (Quelle „Watchlist", Standing-Freigabe 17.09.2026), Fundamentals n/a, 200T-Linie n/a (nicht verifizierbar):
+- TK Accelis: Kurs heute 25,00 (Eröffnung 06.11.2026, Xetra; Finnhub TKCC.DE: Eröffnung 25,00, Hoch 25,50, Tief 24,26, Schluss 24,78; ISIN DE000TKCC1S8, WKN TKCC1S; Börsenstart 28.10.2026 als Thyssenkrupp-Abspaltung). Abstand 52W-Tief n/a: Finnhubs 52W-Tief (25,40) widerspricht dem Tagestief vom 06.11. (24,26) – nicht verifizierbar, Wochen-Refresh füllt.
+- ABB: Kurs heute 72,80 (Eröffnung 06.11.2026, Xetra; stockanalysis.com ETR:ABJ: Eröffnung 72,80, Hoch 73,86, Tief 72,34, Schluss 73,30; ISIN CH0012221716, WKN 919730). Abstand 52W-Tief n/a: Finnhubs 52W-Tief (53,78 EUR, ABJA.F) nicht zweitverifiziert – Wochen-Refresh füllt.
+- Acushnet: Kurs heute 74,63 (Eröffnung 06.11.2026 NYSE: 83,32 USD, Finnhub/stockanalysis.com; umgerechnet mit EZB-Referenzkurs 1,1165 USD/EUR vom 06.11.2026; ISIN US0050981085, WKN A2ATTR, NYSE-Ticker GOLF; Marken Titleist, FootJoy, Scotty Cameron). Abstand 52W-Tief +10,86 % (52W-Tief 75,16 USD, Finnhub).
+
+Quellen-Badges der drei neuen Zeilen verlinkt (Feld `_quelle_url`): auf die audiorella-Episodenseite /162-new-episode. Keine Kaufempfehlung der Folge dokumentiert.
