@@ -672,3 +672,19 @@ Neuaufnahmen in Depotliste (Quelle „Watchlist", Standing-Freigabe 17.09.2026),
 - Acushnet: Kurs heute 74,63 (Eröffnung 06.11.2026 NYSE: 83,32 USD, Finnhub/stockanalysis.com; umgerechnet mit EZB-Referenzkurs 1,1165 USD/EUR vom 06.11.2026; ISIN US0050981085, WKN A2ATTR, NYSE-Ticker GOLF; Marken Titleist, FootJoy, Scotty Cameron). Abstand 52W-Tief +10,86 % (52W-Tief 75,16 USD, Finnhub).
 
 Quellen-Badges der drei neuen Zeilen verlinkt (Feld `_quelle_url`): auf die audiorella-Episodenseite /162-new-episode. Keine Kaufempfehlung der Folge dokumentiert.
+
+## 15.11.2026 – weekly-video-picks (ein neuer Inhalt)
+
+1. „Aktien fürs Leben", Folge 163: „KI kriselt – dann auf zum next big thing der Tech-Branche: Quantencomputer" (12.11.2026, https://aktien-fuers-leben.blogs.audiorella.com/163-new-episode; besprochene Aktien: Nvidia (918422), AppLovin (A2QR0K), Global Foundries (A3C6AF), Stanley Black & Decker (A1CTQA), Marzetti Co. (858141)). AppLovin bereits auf Watchlist + Website – kein Doppel. Nvidia bereits in der Depotliste (zwei Zeilen: Podcast-Sektion 28.02.2024 + Watchlist-Zeile) – kein Doppel, nur in watchlist.md nachgetragen. Global Foundries, Stanley Black & Decker, Marzetti Co. neu.
+2. Abilitato-Blog: kein neuer Artikel seit CEWE (03.11.2026) – bereits verarbeitet.
+3. LYNX „Smart Investieren": keine neue Folge seit Sarnia Global Alpha Fund (29.10.2026) – bereits verarbeitet.
+4. LYNX „Aktien mit Potenzial": keine neue Folge seit Nynomic (02.10.2026).
+
+Neuaufnahmen in Depotliste (Quelle „Watchlist", Standing-Freigabe 17.09.2026), Fundamentals n/a, 200T-Linie n/a (nicht verifizierbar):
+- Global Foundries: Kurs heute 38,56 (Eröffnung 13.11.2026 NASDAQ: 42,62 USD, Yahoo Finance; umgerechnet mit EZB-Referenzkurs 1,1052 USD/EUR vom 13.11.2026; ISIN KYG393871085, WKN A3C6AF, NASDAQ-Ticker GFS; Schluss 13.11. 41,47 USD). Abstand 52W-Tief n/a – Wochen-Refresh füllt.
+- Stanley Black & Decker: Kurs heute 102,26 (Eröffnung 13.11.2026 NYSE: 113,02 USD, Yahoo Finance; umgerechnet mit EZB-Referenzkurs 1,1052 USD/EUR vom 13.11.2026; ISIN US8545021011, WKN A1CTQA, NYSE-Ticker SWK; Q3-Zahlen 04.11.2026). Abstand 52W-Tief n/a – Wochen-Refresh füllt.
+- Marzetti Co.: Kurs heute 100,83 (Eröffnung 13.11.2026 NASDAQ: 111,44 USD, Yahoo Finance, zweitverifiziert Finnhub; umgerechnet mit EZB-Referenzkurs 1,1052 USD/EUR vom 13.11.2026; WKN 858141, NASDAQ-Ticker MZTI; ISIN nicht verifiziert; ehemals Lancaster Colony Corporation, Umbenennung 27.06.2025; Salatsoßen/Fertiggerichte, Dividende seit 60+ Jahren steigend). Abstand 52W-Tief +14,89 % (52W-Tief 97,0001 USD am 01.10.2026, Finnhub).
+
+Quellen-Badges der drei neuen Zeilen verlinkt (Feld `_quelle_url`): auf die audiorella-Episodenseite /163-new-episode. Keine Kaufempfehlung der Folge dokumentiert.
+
+Hinweis: In watchlist.md fehlten ABB (Folge 162, seit 09.11. auf der Website) und Nvidia (Folge 163, seit langem auf der Website) – beide am 15.11.2026 in watchlist.md nachgetragen (Stand-Datum 2026-11-15).
