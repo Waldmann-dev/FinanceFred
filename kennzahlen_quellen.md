@@ -688,3 +688,17 @@ Neuaufnahmen in Depotliste (Quelle „Watchlist", Standing-Freigabe 17.09.2026),
 Quellen-Badges der drei neuen Zeilen verlinkt (Feld `_quelle_url`): auf die audiorella-Episodenseite /163-new-episode. Keine Kaufempfehlung der Folge dokumentiert.
 
 Hinweis: In watchlist.md fehlten ABB (Folge 162, seit 09.11. auf der Website) und Nvidia (Folge 163, seit langem auf der Website) – beide am 15.11.2026 in watchlist.md nachgetragen (Stand-Datum 2026-11-15).
+
+## 22.11.2026 – weekly-video-picks (ein neuer Inhalt)
+
+1. „Aktien fürs Leben", Folge 164: „Wie viel Energie steckt in Siemens Energy? - und das Geheimnis von Ready to drink" (18.11.2026, https://aktien-fuers-leben.blogs.audiorella.com/164-new-episode; besprochene Aktien: Siemens Energy (ENER6Y), Constellation Brands (US21036P1084), Verizon (US92343V1044)). Siemens Energy bereits auf der Watchlist (seit 20.11.2026, Disis Anweisung) – kein Doppel in watchlist.md, nur Website-Zeile ergänzt. Constellation Brands + Verizon neu.
+2. Abilitato-Blog: kein neuer Artikel seit CEWE (03.11.2026) – bereits verarbeitet.
+3. LYNX „Smart Investieren": keine neue Folge seit Sarnia Global Alpha Fund (29.10.2026) – bereits verarbeitet.
+4. LYNX „Aktien mit Potenzial": keine neue Folge seit Nynomic (02.10.2026).
+
+Neuaufnahmen in Depotliste (Quelle „Watchlist", Standing-Freigabe 17.09.2026), Fundamentals n/a, 200T-Linie n/a (nicht verifizierbar):
+- Siemens Energy AG: Kurs heute 121,00 (Eröffnung 20.11.2026, Xetra; Yahoo Finance, zweitverifiziert stockanalysis.com/closelook.net: Eröffnung 121,00, Hoch 122,06, Tief 117,44, Schluss 118,32; ISIN DE000ENER6Y0, WKN ENER6Y, Xetra-Ticker ENR; Q4-/Jahreszahlen 12.11.2026). Hinweis: Memory-Eintrag vom 20.11. nennt Eröffnung 120,84 € (vermutlich anderer Handelsplatz) – Website-Zeile nutzt den Xetra-Eröffnungskurs 121,00 €. Abstand 52W-Tief n/a – Wochen-Refresh füllt.
+- Constellation Brands: Kurs heute 129,13 (Eröffnung 20.11.2026 NYSE: 141,91 USD, Yahoo Finance, zweitverifiziert Finnhub; umgerechnet mit EZB-Referenzkurs 1,0990 USD/EUR vom 20.11.2026; ISIN US21036P1084, NYSE-Ticker STZ; Bier/Wein/Spirituosen – Corona, Modelo, Robert Mondavi; Dividendenrendite ~2,9 %). Abstand 52W-Tief n/a – Wochen-Refresh füllt.
+- Verizon: Kurs heute 42,29 (Eröffnung 20.11.2026 NYSE: 46,48 USD, Yahoo Finance, zweitverifiziert Finnhub; umgerechnet mit EZB-Referenzkurs 1,0990 USD/EUR vom 20.11.2026; ISIN US92343V1044, WKN 868402, NYSE-Ticker VZ; US-Telekom, 5G/Glasfaser, Dividendenrendite ~6,1 %). Abstand 52W-Tief n/a – Wochen-Refresh füllt.
+
+Quellen-Badges der drei neuen Zeilen verlinkt (Feld `_quelle_url`): auf die audiorella-Episodenseite /164-new-episode. Keine Kaufempfehlung der Folge dokumentiert.
